@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 📖 About
 
 **DocMatrix** is an AI-powered document management workspace that brings multiple Google Drive accounts together into one organized interface. Instead of switching between accounts to find, move or manage files, users get a single explorer, a shared folder structure and a live view of their storage.
