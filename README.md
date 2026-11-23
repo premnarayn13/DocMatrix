@@ -6,7 +6,7 @@
 
 <p><b>Multiple Google Drives · One Workspace · Three AI Agents</b></p>
 
-<p><a href="https://docmatrixsdms.vercel.app"><b>🌐 docmatrixsdms.vercel.app</b></a></p>
+<p><a href="https://docmatrixsdms.vercel.app"><b>docmatrixsdms.vercel.app</b></a></p>
 
 
 </div>
