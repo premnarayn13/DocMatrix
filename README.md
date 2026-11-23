@@ -8,17 +8,6 @@
 
 <p><a href="https://docmatrixsdms.vercel.app"><b>🌐 docmatrixsdms.vercel.app</b></a></p>
 
-<p>
-<a href="#-about">About</a> •
-<a href="#-why-docmatrix">Why</a> •
-<a href="#-features">Features</a> •
-<a href="#-ai-agent-fleet">Agents</a> •
-<a href="#-system-architecture">Architecture</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-security">Security</a> •
-<a href="#-deployment">Deployment</a> •
-<a href="#-local-setup">Setup</a>
-</p>
 
 </div>
 
